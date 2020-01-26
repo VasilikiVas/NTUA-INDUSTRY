@@ -15,8 +15,13 @@ This repository contains our team's (*NTUA-INDUSTRY*) project for the competitio
 * We automated defect detection using deep learning, and more specicially convolutional neural networks. The model is trained on steel images, since it is the most important building material of modern times. 
 
 ## 📋Contents
+
 ## 📙Datasets
 
 ## ⚙️ Tools
 
 ## 👱Project Collaborators
+* Dimitrios Georgiou
+* Mary Parelli
+* Vasiliki Vasileiou
+* Dorothea Kalliora
